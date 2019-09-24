@@ -1,0 +1,14 @@
+/*
+* @Author: vannvan <https://github.com/vannvan>
+* @Date:   2019-09-24 17:11:36
+* @Last Modified by:   vannvan
+* @Last Modified time: 2019-09-24 17:12:22
+*/
+.content{
+	width: 100%;
+	height: 200px;
+	background: #f00;
+}
+.item{
+	border-radius: 8px;
+}
